@@ -15,7 +15,7 @@
     <title>English Battle</title>
 </head>
 <body>
-    <h1 align="center">Bienvenue sur English Battle !</h1>
+    <h1 align="center">Bienvenue sur Englisheuh Battle !</h1>
 
     <form align="center" method="post" style="margin-left:35%; margin-right:35%" action="EnglishBattle">
         <c:if test="${isConnect == false}">
